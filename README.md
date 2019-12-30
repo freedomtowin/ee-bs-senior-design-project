@@ -1,6 +1,6 @@
 Project Name: Automatic Speed Control
 
-Video: ![https://youtu.be/lSIhfu3V6t0](https://youtu.be/lSIhfu3V6t0)
+Video: [https://youtu.be/lSIhfu3V6t0](https://youtu.be/lSIhfu3V6t0)
 
 Automatic Speed Control looks to use speed coordination and safety techniques such as collision avoidance in order to assist drivers in specific situations and make the daily driving experience more enjoyable. This product will make our roads significantly safer resulting in a decreased number of automobile accidents. 
 
