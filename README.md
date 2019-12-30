@@ -1,4 +1,4 @@
-Project Name: Automatic Speed Control
+### Project Name: Automatic Speed Control
 
 Video: [https://youtu.be/lSIhfu3V6t0](https://youtu.be/lSIhfu3V6t0)
 
