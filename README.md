@@ -57,3 +57,7 @@ The ideas and steps that were taken in to account in order to build ASC, automat
 
 ![](https://user-images.githubusercontent.com/21232362/71578516-78650900-2ac6-11ea-9fbb-56ea08ca21a7.png)
 
+### Hardware Diagram
+
+![](https://user-images.githubusercontent.com/21232362/71578513-769b4580-2ac6-11ea-8115-3441f43b4ca9.png)
+
