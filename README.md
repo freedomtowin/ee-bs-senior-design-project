@@ -31,18 +31,17 @@ The ideas and steps that were taken in to account in order to build ASC, automat
       Equipment:
       Computer
 
-1 Assemble ZUMO if came un-assembled. Change the jumper cables on the ZUMO shield and reflectance sensor for Arduino UNO.
+**Project Steps:**
+
+1. Assemble ZUMO if came un-assembled. Change the jumper cables on the ZUMO shield and reflectance sensor for Arduino UNO.
 
 2. Drill holes in the printed circuit board to match the existing holes in the Arduino UNO. Cut a piece of acrylic the same shape and size of the Arduino UNO. Fit the printed circuit board on the Arduino with nylon nuts and bolts with the Arduino facing with pins up. Hot glue the printed bread board on the tops of the printed circuit board. Hot glue the acrylic to the bottom of the Arduino.
 
-
-Line following & Obstacle Avoidance
 
 3. Use the existing ZUMO libraries and examples to create a line following ZUMO. Remove the code for the buzzer to enable using pin 6.
 
 
 4. Test obstacle avoidance by assign pin 6 to send and receive sensor data. Control the motors with ZUMO libraries to turn away when an object is detected. Otherwise, the ZUMO is to go straight.
-
 
 
 5. The ZUMO should line follow until an object is detected. If an object is detected, the ZUMO will change lanes, and 0nce a safe distance is reached the ZUMO will change back to the right lane and continue to follow the line. Vectored interrupts are used for efficient responses.
