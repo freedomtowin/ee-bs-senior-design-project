@@ -13,6 +13,7 @@ Scope of Work
 The ideas and steps that were taken in to account in order to build ASC, automatic speed control, were complex and dependent of each other. The testing process followed a specific order of checkpoints that were required to meet in order to have everything working as expected.
 
 **Equipment:**
+       
       ZUMO robots
       Ultrasonic sensor (4pin or 3pin)
       Reflectance sensors (6)
