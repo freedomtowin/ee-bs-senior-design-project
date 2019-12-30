@@ -52,3 +52,8 @@ The ideas and steps that were taken in to account in order to build ASC, automat
 7. Create a for loops to send numbers from one Arduino to the other. Use the RX, pin0, to receive and TX, pin1, to send signals. 
 
 8. The two sensors should be interfaced to one Arduino UNO. That Arduino will information about the both sensor data in one byte to the other Arduino UNO.
+
+### State Diagram
+
+!(https://user-images.githubusercontent.com/21232362/71578516-78650900-2ac6-11ea-9fbb-56ea08ca21a7.png)[]
+
