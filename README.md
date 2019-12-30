@@ -12,23 +12,23 @@ Other features of ASC are lane detection, blind spot monitoring, and vehicle ove
 Scope of Work
 The ideas and steps that were taken in to account in order to build ASC, automatic speed control, were complex and dependent of each other. The testing process followed a specific order of checkpoints that were required to meet in order to have everything working as expected.
 
-Equipment:
-ZUMO robots
-Ultrasonic sensor (4pin or 3pin)
-Reflectance sensors (6)
-NewPing library
-Ardunio Micro-controllers
-Mount for sensors
-Equipment:
-Solder/Solder pen
-Printed circuit board
-Printed breadboard
-Nylon accessories
-Drill
-Acrylic sheet
-Arduino IDE
-Equipment:
-Computer
+**Equipment:**
+      ZUMO robots
+      Ultrasonic sensor (4pin or 3pin)
+      Reflectance sensors (6)
+      NewPing library
+      Ardunio Micro-controllers
+      Mount for sensors
+      Equipment:
+      Solder/Solder pen
+      Printed circuit board
+      Printed breadboard
+      Nylon accessories
+      Drill
+      Acrylic sheet
+      Arduino IDE
+      Equipment:
+      Computer
 
 1 Assemble ZUMO if came un-assembled. Change the jumper cables on the ZUMO shield and reflectance sensor for Arduino UNO.
 
